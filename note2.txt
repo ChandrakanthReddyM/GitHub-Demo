@@ -1,0 +1,8 @@
+To check status of file
+git status
+Now data is in staging need to promote to local reporsitory
+To send to host repo
+git commit -m"initial file"
+-m is for message
+Now data is in local repro.in order to add it to host we need to push
+git push

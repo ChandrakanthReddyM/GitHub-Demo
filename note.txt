@@ -1,0 +1,4 @@
+Hello, trying to add file in GitHub
+Command is git add note.txt
+How to clone from github
+git clone and SSH address
